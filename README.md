@@ -1,4 +1,4 @@
-
+Bot Terms Of Service
 
 Last updated May 7, 2023
 ## Proper Usage
