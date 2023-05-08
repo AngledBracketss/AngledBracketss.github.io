@@ -1,2 +1,12 @@
-# AngledBracketss.github.io
-Tos
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>TOS</title>
+</head>
+
+<body>
+<b><p></p>TOS</p></b> <p></p>Do not use this bot with any mal intent. Any users that attempt misuse will be blocked.</p>
+</body>
+
+</html>
